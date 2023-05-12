@@ -1,0 +1,5 @@
+matplotlib~=3.7.1
+tikzplotlib~=0.10.1
+latextable~=1.0.0
+texttable~=1.6.7
+tqdm~=4.65.0
